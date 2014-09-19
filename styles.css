@@ -1,0 +1,23 @@
+#header {
+	background-color: #1E53C7;
+}
+
+#sidebar {
+	background-color: #324F8C;
+	display: inline-block;
+	width: 200px;
+	height: 1000px;
+	float: left;
+}
+
+#content {
+	background-color: #8C6F32;
+}
+
+#contact {
+	background-color: #0B990F;
+}
+
+#main {
+	display: inline-block;
+}

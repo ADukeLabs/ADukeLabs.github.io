@@ -7,6 +7,7 @@ body {
   margin: 0px auto;
   min-width: 960px;
   width: 100%;
+  font-family: 'Consalas';
 }
 
 p {
@@ -51,7 +52,7 @@ h4 {
 .nav li {
   float: left;
 }
-.nav li a {
+.nav a {
   color: #fff;
   margin: 0 10px;
   padding: 5px 10px;
@@ -197,4 +198,8 @@ h4 {
   content: "";
   display: table;
   clear: both;
+}
+
+a:hover {
+  color: #FF0000;
 }
