@@ -1,11 +1,27 @@
-h {
+head {
+	background-color: 00D5FF;
+	font-family: Verdana, San Serif;
+}
+
+body {
+	background-color: CFCF15;
+}
+
+.h {
 	font-family: Verdana;
+	color: 1FDEDB;
 }
 
 #blog_nav {
-	color: ;
+	color: 22B81A;
 	font-size: 100px;
 	font-style: Helvetica;
 }
 
-a:hover
+#blog_links {
+	color: 058CFA;
+}
+
+.a:hover {
+	color: ;
+}
